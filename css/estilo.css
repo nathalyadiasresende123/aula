@@ -1,0 +1,45 @@
+#verde {
+	width: 150px;
+	height: 150px;
+	border:solid 3px;
+	background-color: yellow;
+	border-color: green;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.azul{
+width: 150px;
+	height: 150px;
+	border:solid 3px;
+	background-color: blue;
+	border-color: green;
+	border-radius: 50%;
+	display: inline-block;
+}   
+.preto{
+
+width: 150px;
+	height: 150px;
+	border:solid 3px;
+	background-color: black;
+	border-color: green;
+	border-radius: 50%;
+	display: inline-block;
+}
+.vermelho{
+	width: 150px;
+	height: 150px;
+	border:solid 3px;
+	background-color:red;
+	border-color: green;
+	border-radius: 50%;
+	display: inline-block;
+}
+img{
+	height: 130px;
+	width: 130px;
+	display: inline-block;
+	border-radius: 50%;
+	margin: 8px 8px 8px 8px
+}
