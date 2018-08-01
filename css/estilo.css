@@ -1,38 +1,91 @@
-.amarelo{
-	width: 150px;
-	height: 150px;
-	border:solid 8px;
-	border-color: green;
-	background-color: yellow;
-	border-radius: 25px;
-	display: inline-block;
+body{
+
+	background-color: pink
 }
-.verde{
-	width: 150px;
-	height: 150px;
-	border:solid 8px;
-	border-color:yellow;
-	background-color: green;
-	border-radius: 25px;
-	display: inline-block;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+p{
+	color:blue;
+	 font-size 15px;
+	 font-family:Bernard MT Condensed 
 
 }
-.azul{
-    width: 150px;
-	height: 150px;
-	border:solid 8px;
-	border-color: blue;
-	background-color:black 
-	border-radius: 25px;
-	display: inline-block;
+img{
+	width: 200px;
+	left: 200 px;}
+
+	h1,h2,h3,h4,h5,h6{
+		background-color:#F3F93C
 }
-.preto{
-    width: 150px;
-	height: 150px;
-	border:solid 8px;
-	border-color: black;
-	background-color:blue
-	border-radius: 25px;
-	display: inline-block;
-	
+#especial{
+     background-color: green;
+     font-family: Gabriola;
+     font-size: 50px;
+     color:blue;
+ }
+
+#ima{
+  width: 300px;
+  left: 300px
+
+
+
 }
+.especial{
+	background-color: red;
+	font-family: Arial;
+	font-size: 30px;
+
+}
+#div1{
+    height:200px;
+    width: 400px;
+    background-color: powderblue;
+
+
+
+
+}
+#div2{
+    height:100px;
+    width: 300px;
+    background-color:black;
+
+}
+#div3{
+    height:100px;
+    width: 300px;
+    background-color:red;
+}
+.paragrafo{
+    font-size: 25px;
+    font font-family: gabriola;
+    text-align: center;
+}
+#shawn
